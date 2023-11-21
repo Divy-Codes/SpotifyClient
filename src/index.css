@@ -1,0 +1,23 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.1;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  /* color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  color-scheme: light dark; */
+}
+
+/* Remove default margin of 8px*/
+body,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
