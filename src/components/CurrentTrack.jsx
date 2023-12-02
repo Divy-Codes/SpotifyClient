@@ -32,8 +32,7 @@ export default function CurrentTrack() {
       }
     };
     getCurrentTrack();
-  }, [token, dispatch]);
-
+  }, [token, dispatch, currentlyPlaying]);
   return (
     <Container>
       {/* If component null then no need to render it */}
