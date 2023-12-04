@@ -26,7 +26,7 @@ export default function PlayerControls() {
       }
     );
 
-    //Fetching currently playing after track change.
+    //Re-Fetch currently playing after track change.
     const response = await axios.get(
       "https://api.spotify.com/v1/me/player/currently-playing",
       {
