@@ -4,6 +4,9 @@
 - This is a frontend project made using Spotify API. Note:- You may not be able to play the music as the API requires a premium account for the API call. I have not renewed my premium account after the initial development. However, I can very do it if required. Also it has not been made responsive intentionally as the motive was to showcase my capability with APIs and render beautiful UIs.
 - To check my development accumen , you could check out my fully responsive [Youtube Frontend](https://divyanshu-yt-frontend.web.app/). You may checkout the Github source code [here](https://github.com/Divy-Codes/divyanshu-yt-frontend).
 
+## Take A Sneak Peek 
+![Screenshot 2024-06-30 131912](https://github.com/Divy-Codes/SpotifyClient/assets/147299807/16b6ada9-25e1-4acf-9837-6adabcd608a3)
+
 
 ## Source Code Explanation
 - Context API was used for state management.
